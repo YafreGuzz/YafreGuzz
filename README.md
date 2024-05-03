@@ -1,5 +1,5 @@
 <h1> <img align ="center" width = "1000" height = "" alt = "Coding" src ="https://github.com/YafreGuzz/YafreGuzz/assets/97078610/044b7e49-f9a9-4b3a-a204-aeea12c40247"/></h1>
-<h3 align="center">A passionate Full Stack developer from the Dominican Republic</h3>
+<h3 align="center">A passionate FullStack developer from the Dominican Republic</h3>
 <img align = "right" alt = "Coding" src ="https://github.com/YafreGuzz/YafreGuzz/assets/97078610/37d155ff-dfe7-48da-ad79-185ca450763e" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yafreguzz&label=Profile%20views&color=0e75b6&style=flat" alt="yafreguzz" /> </p>
