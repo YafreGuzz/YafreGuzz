@@ -25,9 +25,9 @@
 
 ## <h3 align = "center" > Github Info: </h3>
 <p>&nbsp;
-<img align="left" width = "300" src="https://github-readme-stats.vercel.app/api?username=yafreguzz&show_icons=true&locale=en" alt="yafreguzz" />
-<img align="right" width = "300" src="https://github-readme-streak-stats.herokuapp.com/?user=yafreguzz&" alt="yafreguzz" />
-<img align="center" width = "280" src="https://github-readme-stats.vercel.app/api/top-langs?username=yafreguzz&show_icons=true&locale=en&layout=compact" alt="yafreguzz" /></p>
+<img align="left" width = "470" src="https://github-readme-stats.vercel.app/api?username=yafreguzz&show_icons=true&locale=en" alt="yafreguzz" />
+<img align="right" width = "470" src="https://github-readme-streak-stats.herokuapp.com/?user=yafreguzz&" alt="yafreguzz" />
+</p>
 
 
 <p align = "center">
